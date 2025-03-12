@@ -33,5 +33,5 @@ A powerful and efficient search application built with **Next.js**. This app all
 3. Start the Server:
 
    npm run dev
-The app will be available at http://localhost:3001.
+
 
